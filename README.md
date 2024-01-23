@@ -1,9 +1,5 @@
 ## Olá, 
 
-# Estou estudando Python no momento .. ❤️❤️❤️
-# Estou lendo livros de lógica de programação.  👍
-# meu e-mail: vieiravictor5421@gmail.com 📩
-
 <h1 align="center" style="color: #ba6771;">
 </h1>
 
@@ -11,18 +7,18 @@
 <img src="https://user-images.githubusercontent.com/52347812/137624699-ce6bb7ee-eb84-46f1-ac69-c4b78b22db90.png" style="display: block; margin: 0 auto;">
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Edson%3BI%27m+a+%3BWelcome%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23c16a75&size=45&center=true&vCenter=true&width=1000&lines=HELLO%2C+My+name+is+Edson%3B%27++%3B%21+%3A%29&font=Monaco)](https://git.io/typing-svg)
 
 
 
-<h2  style="color: #ba6771;">Overview 👉</h2>
+<h2  style="color: #ba6771;">Overview 👉
+  Apenas mais um programador em busca do código perfeito 😎 </h2>
 
-<p style="color: #b38c7f;">.</p>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40" style="display: block; margin: 0 auto;"> <em><b style="color: #c16a75;">""</b></em>
+
 
 <div align="center" >
-  <a href="https://github.com/EdsonVictor2">
+  <a href="https://github.com/ededao">
     <img height="100%" src="https://github-readme-stats.vercel.app/api?username=ededao&show_icons=true&theme=date_night&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/ededao"></a>
@@ -32,7 +28,10 @@
 <br><br>
 
 <h2 style="color: #ba6771;">Skills 🚀</h2>
-
+Criativo 😎
+Ouço a todas as opiniões, criticas e sugestões. 👍
+Sou bastante curioso. 😂
+# Estou estudando Python no momento .. ❤️❤️❤️
 
 
 <h2 style="color: #ba6771;">Connect with me 👇</h2>
